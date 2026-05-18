@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3005",
+  "folder": "YouTube__watch_20260518095530_244d59",
+  "base_name": "nOe0S2CEbQM_nOe0S2CEbQM_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-3005",
+  "files": [
+    {
+      "name": "nOe0S2CEbQM_nOe0S2CEbQM_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-3005/nOe0S2CEbQM_nOe0S2CEbQM_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423178486",
+      "id": 423178486,
+      "size": 36273046,
+      "download_count": 0
+    }
+  ]
+}
