@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8784",
+  "folder": "YouTube__watch_20260518093723_8b8c81",
+  "base_name": "CRAZY_GAME_ExCaL_vs_Marakar_Laser_vs_GLA_Stealth_Liquid_Gold_5oZqvLk00Aw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-8784",
+  "files": [
+    {
+      "name": "CRAZY_GAME_ExCaL_vs_Marakar_Laser_vs_GLA_Stealth_Liquid_Gold_5oZqvLk00Aw_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-8784/CRAZY_GAME_ExCaL_vs_Marakar_Laser_vs_GLA_Stealth_Liquid_Gold_5oZqvLk00Aw_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423166305",
+      "id": 423166305,
+      "size": 416704805,
+      "download_count": 0
+    }
+  ]
+}
