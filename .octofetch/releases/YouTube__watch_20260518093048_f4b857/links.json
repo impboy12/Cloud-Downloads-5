@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4967",
+  "folder": "YouTube__watch_20260518093048_f4b857",
+  "base_name": "Who_is_this_rank_3_player_3bc1oGxcRLY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-4967",
+  "files": [
+    {
+      "name": "Who_is_this_rank_3_player_3bc1oGxcRLY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-4967/Who_is_this_rank_3_player_3bc1oGxcRLY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423162789",
+      "id": 423162789,
+      "size": 550071642,
+      "download_count": 0
+    }
+  ]
+}
