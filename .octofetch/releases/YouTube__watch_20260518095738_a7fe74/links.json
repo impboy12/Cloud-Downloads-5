@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1599",
+  "folder": "YouTube__watch_20260518095738_a7fe74",
+  "base_name": "(_)_gvY_EmdmTx8_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-1599",
+  "files": [
+    {
+      "name": "_._gvY_EmdmTx8_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-1599/_._gvY_EmdmTx8_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423179953",
+      "id": 423179953,
+      "size": 32859832,
+      "download_count": 0
+    }
+  ]
+}
