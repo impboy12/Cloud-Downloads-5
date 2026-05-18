@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4377",
+  "folder": "YouTube__watch_20260518100239_26fce9",
+  "base_name": "STUNNING_ALPHAS_Marakar_vs_ViViD_Oil_Rampage_ziPTtuCE3gk_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-4377",
+  "files": [
+    {
+      "name": "STUNNING_ALPHAS_Marakar_vs_ViViD_Oil_Rampage_ziPTtuCE3gk_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-4377/STUNNING_ALPHAS_Marakar_vs_ViViD_Oil_Rampage_ziPTtuCE3gk_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423183793",
+      "id": 423183793,
+      "size": 105312708,
+      "download_count": 0
+    }
+  ]
+}
