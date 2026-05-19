@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3495",
+  "folder": "YouTube__watch_20260519172347_95d138",
+  "base_name": "Conspiracy_continues_or_over_BoYcaH_vs_Marakar_27pwB04B1Qw_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-3495",
+  "files": [
+    {
+      "name": "Conspiracy_continues_or_over_BoYcaH_vs_Marakar_27pwB04B1Qw_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-3495/Conspiracy_continues_or_over_BoYcaH_vs_Marakar_27pwB04B1Qw_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/424380654",
+      "id": 424380654,
+      "size": 100794934,
+      "download_count": 0
+    }
+  ]
+}
