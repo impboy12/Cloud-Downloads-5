@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9400",
+  "folder": "YouTube__watch_20260519173240_e6d3b8",
+  "base_name": "Legendary_Replay_Marakar_vs_Lift_Truck_2Qm8I-ZLQLI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-9400",
+  "files": [
+    {
+      "name": "Legendary_Replay_Marakar_vs_Lift_Truck_2Qm8I-ZLQLI_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-9400/Legendary_Replay_Marakar_vs_Lift_Truck_2Qm8I-ZLQLI_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/424386716",
+      "id": 424386716,
+      "size": 148131456,
+      "download_count": 0
+    }
+  ]
+}
