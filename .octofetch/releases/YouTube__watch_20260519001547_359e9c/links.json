@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1219",
+  "folder": "YouTube__watch_20260519001547_359e9c",
+  "base_name": "ExCaL_(tox)_vs_SiZe_(usa)_1v1_Experts_Oil_Rampage_Generals_Zero_Hour_8BKN0icRnCo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-1219",
+  "files": [
+    {
+      "name": "ExCaL_.tox._vs_SiZe_.usa._1v1_Experts_Oil_Rampage_Generals_Zero_Hour_8BKN0icRnCo_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-1219/ExCaL_.tox._vs_SiZe_.usa._1v1_Experts_Oil_Rampage_Generals_Zero_Hour_8BKN0icRnCo_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423740117",
+      "id": 423740117,
+      "size": 430419390,
+      "download_count": 0
+    }
+  ]
+}
