@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7281",
+  "folder": "YouTube__watch_20260519001037_f3a9dc",
+  "base_name": "UNSTOPPABLE_AIRFORCE_Rage_vs_Size_550_Dubai_Championship_(2016)_VUPaUWdxYI0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-5/releases/tag/co-releases-v1-7281",
+  "files": [
+    {
+      "name": "UNSTOPPABLE_AIRFORCE_Rage_vs_Size_550_Dubai_Championship_.2016._VUPaUWdxYI0_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-5/releases/download/co-releases-v1-7281/UNSTOPPABLE_AIRFORCE_Rage_vs_Size_550_Dubai_Championship_.2016._VUPaUWdxYI0_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-5/releases/assets/423737664",
+      "id": 423737664,
+      "size": 574306324,
+      "download_count": 0
+    }
+  ]
+}
